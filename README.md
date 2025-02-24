@@ -1,4 +1,4 @@
-## 已完成的学习内容
+## python基本用法和两个小demo
 
 ### 1. Python基础语法 (hello.py)
 - 注释的使用
